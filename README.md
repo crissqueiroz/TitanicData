@@ -1,5 +1,5 @@
 # Titanic Dataset
-Esse repositório terá o código do estudo realizado em R para responder algumas perguntas utilizando o <i>dataset do Titanic<i>.
+Esse repositório terá o código do estudo realizado em R para responder algumas perguntas utilizando o <i>dataset do Titanic</i>.
 
 Para apresentar essa análise criarei um dashboard utilizando o R Markdown.
 
